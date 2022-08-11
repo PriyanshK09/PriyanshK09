@@ -17,3 +17,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Priyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PriyanshK09&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyanshK09&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/PriyanshK09"><img alt="PriyanshK09's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PriyanshK09&custom_title=PriyanshK09's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
