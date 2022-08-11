@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Priyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PriyanshK09&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/PriyanshK09/github-profile-stats"><img alt="Priyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PriyanshK09&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyanshK09&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
