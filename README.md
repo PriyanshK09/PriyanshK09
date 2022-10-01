@@ -27,10 +27,6 @@
 <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/PriyanshK09/PriyanshK09/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
-
-<p align="center">
   <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
 </p>
 
