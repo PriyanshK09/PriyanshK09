@@ -6,13 +6,13 @@
 <h3 font-size="20" align="center">A passionate developer and a student from India.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/priyanshk09/priyanshk09/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/PriyanshK09/PriyanshK09/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@priyanshk09](github.com/priyanshk09)
+- 👨‍💻 All of my projects are available [@PriyanshK09](github.com/PriyanshK09)
 
 - 💬 Ask me about **Computer System & Networking and Philosophy😆**
 
@@ -27,7 +27,7 @@
 <iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/priyanshk09/priyanshk09/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/PriyanshK09/PriyanshK09/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
 <p align="center">
@@ -77,10 +77,10 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/priyanshk09" target="_blank">
+  <a href="https://github.com/PriyanshK09" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/priyanshk09" target="_blank">
+  <a href="https://gitlab.com/PriyanshK09" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
@@ -142,18 +142,18 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=priyanshk09&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/priyanshk09)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshk09&theme=material-palenight)](https://github.com/priyanshk09)
+[![](https://github-readme-stats.vercel.app/api?username=PriyanshK09&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/PriyanshK09)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshK09&theme=material-palenight)](https://github.com/PriyanshK09)
 </div>
 
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/priyanshk09/priyanshk09/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/PriyanshK09/PriyanshK09/main/resources/img/github-contribution-grid-snake.svg"
     alt="Grid Snake" />
 </p>
 
 ------
-Credit: [priyanshk09](https://github.com/priyanshk09)
+Credit: [PriyanshK09](https://github.com/PriyanshK09)
 
 Last Edited on: 01/10/2022
