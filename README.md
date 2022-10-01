@@ -133,7 +133,7 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/PriyanshK09/PriyanshK09/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/imranbarbhuiya/PriyanshK09/output/github-contribution-grid-snake.svg"
     alt="Grid Snake" />
 </p>
 
