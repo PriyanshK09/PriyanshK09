@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Priyansh Khare</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Student+from+India;I+am+a+Passionate+Developer)](https://git.io/typing-svg)
 <h3 font-size="20" align="center">A passionate developer and a student from India.</h3>
 
 
