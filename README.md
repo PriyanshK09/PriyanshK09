@@ -24,7 +24,7 @@
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<img src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh" alt="html5"/>
+<iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
