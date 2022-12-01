@@ -131,9 +131,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshK09&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshK09&layout=compact)](https://github.com/PriyanshK09)
-[![Priyansh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PriyanshK09)](https://github.com/PriyanshK09)
+[![](https://github-readme-stats.vercel.app/api?username=PriyanshK09&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/PriyanshK09)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshK09&theme=material-palenight)](https://github.com/PriyanshK09)
 </div>
 
 ----
