@@ -128,8 +128,6 @@
 
 ----
 
-<figure><embed src="https://wakatime.com/share/@PriyanshK09/fc8f4949-edec-4bf0-875a-b227e928b8b8.svg"></embed></figure>
-
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
