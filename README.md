@@ -133,6 +133,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=PriyanshK09&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/PriyanshK09)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshK09&theme=material-palenight)](https://github.com/PriyanshK09)
+<figure><embed src="https://wakatime.com/share/@PriyanshK09/fc8f4949-edec-4bf0-875a-b227e928b8b8.svg"></embed></figure>
 </div>
 
 ----
