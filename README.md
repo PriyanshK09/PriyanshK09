@@ -148,7 +148,7 @@
 </p>
 ------
 <p>
-  Credit: [PriyanshK09](https://github.com/PriyanshK09)
+  Credit: <span>[PriyanshK09](https://github.com/PriyanshK09)</span>
 </p>
 
 Last Edited on: 24/12/2022
