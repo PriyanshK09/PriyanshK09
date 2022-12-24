@@ -101,7 +101,7 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a href="https://twitter.com/example" target="_blank">
+    <a href="https://twitter.com/priyanshk09" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
   </div>
