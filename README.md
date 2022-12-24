@@ -147,6 +147,8 @@
     alt="Spotify Last Played" />
 </p>
 ------
-Credit: [PriyanshK09](https://github.com/PriyanshK09)
+<p>
+  Credit: [PriyanshK09](https://github.com/PriyanshK09)
+</p>
 
 Last Edited on: 06/12/2022
