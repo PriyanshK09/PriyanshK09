@@ -142,9 +142,7 @@
     alt="Grid Snake" />
 </p>
 
-<center>
-![Spotify Last Played](https://spotify-recently-played-readme.vercel.app/api?user=fjkzz5fkxqdj82hjsbkl2lr0u)
-</center>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fjkzz5fkxqdj82hjsbkl2lr0u&count={count})
 ------
 Credit: [PriyanshK09](https://github.com/PriyanshK09)
 
