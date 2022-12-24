@@ -142,6 +142,8 @@
     alt="Grid Snake" />
 </p>
 
+![Spotify Last Played](https://spotify-recently-played-readme.vercel.app/api?user=fjkzz5fkxqdj82hjsbkl2lr0u)
+
 ------
 Credit: [PriyanshK09](https://github.com/PriyanshK09)
 
