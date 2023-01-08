@@ -142,15 +142,9 @@
     alt="Grid Snake" />
 </p>
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=fjkzz5fkxqdj82hjsbkl2lr0u&count=1"
-    alt="Spotify Last Played" />
-</p>
 ------
-<p>
-  Credit:
-</p>
-[PriyanshK09](https://github.com/PriyanshK09)
+
+  Credit: [PriyanshK09](https://github.com/PriyanshK09)
 
 
-Last Edited on: 30/12/2022
+Last Edited on: 08/01/2023
