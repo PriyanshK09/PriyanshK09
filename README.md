@@ -22,6 +22,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PriyanshK09&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+
+## 🎖️ HacktoberFest Badges
 [![An image of @priyanshk09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshk09)](https://holopin.io/@priyanshk09)
 
 ### ✍️ Random Dev Quote
