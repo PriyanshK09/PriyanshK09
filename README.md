@@ -9,7 +9,7 @@
 # 💫 About Me:
 🔭 I am currently working on Web Development<br>🔮 I aspire to be a Full Stack Developer<br>💬 Ask me about Computer System & Networking<br>👨‍💻 All of my projects are available @PriyanshK09<br>👯 I’m looking to collaborate on REACT Library<br>⚡ Fun fact Coding is a passion and not profession.
 
-![](https://komarev.com/ghpvc/?username=PriyanshK09&color=green&style=for-the-badge&label=VISITOR+COUNT)
+![](https://komarev.com/ghpvc/?username=PriyanshK09&color=green&style=for-the-badge&label=VISITOR+COUNT&base=926)
 
 
 ## 🌐 Socials:
