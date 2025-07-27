@@ -2,7 +2,6 @@
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
-
 <h1 align="center">Hi, I'm Priyansh Khare</h1>
 <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Student+from+India;I+am+a+Passionate+Developer" alt="Typing SVG" /></a></center>
 
